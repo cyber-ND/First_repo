@@ -1,0 +1,51 @@
+p{
+    color: brown;
+    
+} 
+ol{
+    background-color: aqua;
+} 
+th, td{
+    margin: 10px;
+    border: 2px solid black;
+    padding: 5px;
+}
+table{
+    border-collapse: collapse;
+    background-color: azure;
+}
+table:hover{
+    background-color: red;
+    font-size: 20px;
+}
+body{
+    /* background-image: url("./css images/7.jpg") */
+}
+div{
+   /* background-repeat: repeat-x; */
+   background-position:100% 100%;
+}
+.me{
+    margin: 10px;
+    border: 2px solid blueviolet;
+    padding: 20px;
+    background-color: azure;
+}
+.mee{
+    margin: 10px;
+    border: 2px solid blueviolet;
+    padding: 20px;
+    background-color:azure;
+}
+.meee{
+    margin: 10px;
+    border: 2px solid blueviolet;
+    padding: 20px;
+    background-color: azure;
+}
+.all{
+    background-color: blue;
+    display:flex;
+    margin: 5px;
+    flex-direction: row-reverse;
+}

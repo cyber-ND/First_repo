@@ -1,0 +1,61 @@
+nav{
+    background-color:black; 
+    color: white;
+    display: flex;
+    text-align: right;
+   
+}
+.ab{
+    display: flex;
+    /* margin: 2px; */
+    padding: 4px;
+}
+p{
+    margin: 5px;
+}
+.ac{
+    display: flex;
+    padding:4px ;
+}
+.ad{
+    display: flex;
+    padding: 5px;
+}
+.ae{
+    display: flex;
+    padding: 5px;
+    background-color: blue
+}
+.af{
+    display: flex;
+    padding: 5px;
+    border: 1px;
+    border-color: rgb(78, 49, 49);
+}
+.ag{
+    display: flex;
+    padding: 5px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.section{
+    display: flex;
+    text-align: center;
+}
+.one{
+    display: flex;
+}
+.two{
+    display: flex;
+}
+.three{
+    display: flex;
+}
+.four{
+    display: flex;
+}
+section2{
+    text-align: center;
+}
